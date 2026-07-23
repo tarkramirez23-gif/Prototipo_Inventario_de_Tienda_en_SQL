@@ -1,4 +1,4 @@
-# 📦 Prototipo de Inventario de Tienda en SQL
+# 📦 Prototipo de Inventario de Tienda en SQL.
 
 Prototipo de base de datos para la gestión de inventario de una tienda, desarrollado en **SQL Server (T-SQL)**. El proyecto abarca todo el proceso de modelado de datos: desde el análisis conceptual hasta la implementación física, con el objetivo de administrar productos, stock y operaciones propias de un sistema de inventario.
 
