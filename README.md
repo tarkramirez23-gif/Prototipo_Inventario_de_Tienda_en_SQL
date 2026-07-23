@@ -6,7 +6,7 @@ Prototipo de base de datos para la gestión de inventario de una tienda, desarro
 
 Este proyecto fue desarrollado como práctica académica de Base de Datos, cubriendo las tres etapas clásicas del modelado:
 
-- **Modelo Conceptual** — identificación de entidades, atributos y relaciones del negocio.
+- **Modelo Conceptual** — Identificación de entidades, atributos y relaciones del negocio.
 - **Modelo Lógico** — normalización y definición de tablas, claves primarias/foráneas.
 - **Modelo Físico** — implementación final en SQL Server mediante scripts `.sql`.
 
