@@ -10,7 +10,7 @@ Este proyecto fue desarrollado como práctica académica de Base de Datos, cubri
 - **Modelo Lógico** — Normalización y definición de tablas, claves primarias/foráneas.
 - **Modelo Físico** — Implementación final en SQL Server mediante scripts `.sql`.
 
-## 🗂️ Estructura del repositorio
+## 🗂️ Estructura del repositorio.
 
 | Archivo | Descripción |
 |---|---|
