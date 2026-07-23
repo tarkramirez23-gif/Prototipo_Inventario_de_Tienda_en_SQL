@@ -22,7 +22,7 @@ Este proyecto fue desarrollado como práctica académica de Base de Datos, cubri
 | `FINAL_BACKUPS.sql` | Backups finales de la base de datos. |
 | `*.ssmssln` | Archivos de solución de SQL Server Management Studio. |
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas.
 
 - **SQL Server** (Microsoft)
 - **T-SQL**
